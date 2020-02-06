@@ -18,4 +18,4 @@ A letter by itself indicates a clockwise move while a letter with a plus sign (+
 
 - The letters X,Y and Z are used to indicate that the entire cube is turned about one of it's axes corresponding to R, U and F respectively. When X,Y or Z are followed by a plus sign , it is an indication that the cube is rotated in a counterclockwise direction. When they are followed by the digit two, the cube is rotated 180 degrees.
 
-Please view the sample input file to see sample input.
+Please view the notations file for instructions.
