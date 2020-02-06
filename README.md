@@ -8,7 +8,7 @@ An internal pivot mechanism enables each face in the cube to turn independently 
 
 - F (Front)      - The side currently facing the solver.
 - B (Back)       - The side opposite the front.
-- U (Up)         - The side above or on top of the front side.
+- U (Up)         - The side above or on top of the front side.                    ![Rubix Cube(/Desktop/twistcubeIMAGE.png)
 - D (Down)       - The side opposite the top.
 - L (Left)       - The side directly to the left of the front
 - R (Right)      - The side directly to the right of the front.
