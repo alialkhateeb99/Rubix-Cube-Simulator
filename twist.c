@@ -276,7 +276,7 @@ int main(int argc,char *argv[] ){
         if(list3[4]==list4[4] && list4[5]==list3[5]){
             if(list5[0]==list5[1] && list6[0]==list6[1])
                 if(list3[2]==list4[3] && list4[2]==list3[3]&& list3[4]==list4[4] && list3[5]==list4[5] && list5[0]==list6[1] && list5[1]==list6[0]){
-                    printf("Hurrah!");
+                    printf("Congratulations! You solved the rubix cube!");
                 }
 
         }
